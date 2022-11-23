@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, my name is Erkhaan and I am iOS developer
 
 <!--
 **erkhaan/erkhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Projects:
+- [hltv-parser](https://github.com/erkhaan/hltv-parser): tool for parsing match highlights links specified by user. Based on Jupyterotebook\
+Stack: Jupyter Notebook, Python, Selenium WebDriver
