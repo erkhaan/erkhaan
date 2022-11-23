@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Projects:
-- [hltv-parser](https://github.com/erkhaan/hltv-parser): tool for parsing match highlights links specified by user. Based on Jupyterotebook\
+- [hltv-parser](https://github.com/erkhaan/hltv-parser): tool for parsing match highlights links specified by user.\
 Stack: Jupyter Notebook, Python, Selenium WebDriver
