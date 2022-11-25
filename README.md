@@ -1,4 +1,11 @@
-## Hi 👋, my name is Erkhaan and I am iOS developer
+<img align="left" src="https://orhun.dev/img/crow.png"> 
+
+### Hey!
+
+I'm  passionate about **iOS development** and like to **write code**. Feel free to reach me on **LinkedIn**.
+
+<a href="https://www.linkedin.com/in/erkhaan-struchkov-825501215" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 <!--
 **erkhaan/erkhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +22,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Projects:
+
+### 🛠 Projects
 - [SteamHoursChecker](https://github.com/erkhaan/SteamHoursChecker): macOS app for viewing data from Steam.\
 Stack: macOS, Swift, Cocoa, MVC.
 - [hltv-parser](https://github.com/erkhaan/hltv-parser): tool for parsing match highlights links from website specified by user.\
 Stack: Jupyter Notebook, Python, Selenium WebDriver
 
-# Assignments:
+### 🔖 Assignments
 - [PhotoAlbum](https://github.com/erkhaan/PhotoAlbum): iOS app for viewing albums from Facebook.\
 Stack: iOS, Swift, UIKit, MVC, SnapKit, Alamofire, XCoordinator, Facebook SDK, Cocoapods.
 - [Notes](https://github.com/erkhaan/Notes): iOS app for taking notes.\
