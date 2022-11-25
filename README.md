@@ -6,6 +6,8 @@ I'm  passionate about **iOS development** and like to **write code**. Feel free 
 
 <a href="https://www.linkedin.com/in/erkhaan-struchkov-825501215" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+___
+
 
 <!--
 **erkhaan/erkhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
