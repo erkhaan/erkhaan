@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Projects:
 - [SteamHoursChecker](https://github.com/erkhaan/SteamHoursChecker): macOS app for viewing data from Steam.\
-Stack: macOS, Swift, Cocoa, MVC, Cocoapods.
+Stack: macOS, Swift, Cocoa, MVC.
 - [hltv-parser](https://github.com/erkhaan/hltv-parser): tool for parsing match highlights links from website specified by user.\
 Stack: Jupyter Notebook, Python, Selenium WebDriver
 
