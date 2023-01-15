@@ -31,16 +31,14 @@ Stack: macOS, Swift, Cocoa, MVC.
 - [hltv-parser](https://github.com/erkhaan/hltv-parser): tool for parsing match highlights links from website specified by user.\
 Stack: Python, Selenium WebDriver
 
-### 🔖 Assignments
-- [PhotoAlbum](https://github.com/erkhaan/PhotoAlbum): iOS app for viewing albums from Facebook.\
-Stack: iOS, Swift, UIKit, MVC, SnapKit, Alamofire, XCoordinator, Facebook SDK, Cocoapods.
-- [Notes](https://github.com/erkhaan/Notes): iOS app for taking notes.\
-Stack: iOS, Swift, UIKit, MVC, SnapKit, Realm
-- [MobileUp-assignment](https://github.com/erkhaan/MobileUp-assignment): iOS app for viewing photo album from VK.\
-Stack: iOS, Swift, UIKit, MVC, Xibs, Alamofire, Kingfisher
-- [NewsAPI](https://github.com/erkhaan/NewsAPI-assignment): iOS app that fetches news from api service.\
-Stack: iOS, Swift, SwiftUI, MVVM, Alamofire
-- [ShareTracker](https://github.com/erkhaan/ShareTracker): iOS app that fetches stocks from api service.\
-Stack: iOS, Swift, SwiftUI, MVVM
-- [Carlist](https://github.com/erkhaan/Carlist): console based application for managing list of cars.\
-Stack: macOS, Swift
+### 🔖 iOS Application Assignments
+- [PhotoAlbum](https://github.com/erkhaan/PhotoAlbum): app for viewing albums from Facebook.\
+Stack: Swift, UIKit, MVC, SnapKit, Alamofire, XCoordinator, Facebook SDK, Cocoapods.
+- [Notes](https://github.com/erkhaan/Notes): app for taking notes.\
+Stack: Swift, UIKit, MVC, SnapKit, Realm
+- [MobileUp-assignment](https://github.com/erkhaan/MobileUp-assignment): app for viewing photo album from VK.\
+Stack: Swift, UIKit, MVC, Xibs, Alamofire, Kingfisher
+- [NewsAPI](https://github.com/erkhaan/NewsAPI-assignment): app that fetches news from api service.\
+Stack: Swift, SwiftUI, MVVM, Alamofire
+- [ShareTracker](https://github.com/erkhaan/ShareTracker): app that fetches stocks from api service.\
+Stack: Swift, SwiftUI, MVVM
