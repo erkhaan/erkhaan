@@ -1,6 +1,4 @@
-<img align="left" src="https://orhun.dev/img/crow.png"> 
-
-### Hey!
+# Hey!
 
 I'm  passionate about **iOS development** and like to write code. Feel free to reach me on **LinkedIn**.
 
