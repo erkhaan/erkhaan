@@ -9,7 +9,7 @@ ___
 ## 🛠️ Projects
 - [SteamHoursChecker](https://github.com/erkhaan/SteamHoursChecker): A macOS app for viewing data from Steam.
   - Stack: macOS, Swift, Cocoa, MVC.
-- [hltv-parser](https://github.com/erkhaan/hltv-parser): A tool for parsing match highlights links from a website specified by the user.
+- [hltv-parser (Archived)](https://github.com/erkhaan/hltv-parser): A tool for parsing match highlights links from a website specified by the user.
   - Stack: Python, Selenium WebDriver.
 
 ## 🔖 iOS Application Assignments
