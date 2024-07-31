@@ -2,7 +2,7 @@
 
 I'm  passionate about **iOS development** and like to write code. Feel free to reach me on **LinkedIn**.
 
-<a href="https://www.linkedin.com/in/erkhaan-struchkov-825501215" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/erkhaan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ___
 
