@@ -1,6 +1,6 @@
 # Hey!
 
-I'm  passionate about **iOS development** and like to write code. Feel free to reach me on **LinkedIn**.
+I'm  passionate about **development** and like to write code. Feel free to reach me on **LinkedIn**.
 
 [`/linkedin`](https://www.linkedin.com/in/erkhaan/)
 
